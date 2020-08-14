@@ -16,7 +16,6 @@ Hi, I'm Sourabh Rana, Computer Science student and a Full Stack Developer 🚀 ,
 - 👯 I’m looking to collaborate on my projects 🤝;
 - 🤔 I’m looking for help with Machine Learning 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I love to play basketball and a huge fan of NBA;
 - 📫 How to reach me: ranasourabh466@gmail.com;
 
 
