@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Sourabh!]
+### Hey 👋🏽, I'm Sourabh!
 <br/>
 
 
