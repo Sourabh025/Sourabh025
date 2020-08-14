@@ -1,13 +1,7 @@
 ### Hey 👋🏽, I'm [Sourabh!]
-
 <br/>
 
-<a href="https://www.linkedin.com/in/sourabh-rana-58b2/">
-  <img align="left" alt="Sourabh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 
-
-<br />
 
 Hi, I'm Sourabh Rana, Computer Science student and a Full Stack Developer 🚀 , 🙍🏽‍♂️ Competitive Programmer, Beside's programming, I love to play basketball and a huge fan of NBA.
 
