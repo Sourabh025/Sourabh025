@@ -2,7 +2,7 @@
 <br/>
 
 
-Hi, I'm Sourabh Rana, Computer Science student, Full Stack Developer 🚀 , and a 🙍🏽‍♂️ Competitive Programmer. Beside's programming, I love to play basketball and a huge fan of NBA 🏀️.
+Hi, I'm Sourabh Rana, Computer Science student, Full Stack Developer 🚀 ,AI Enthusiast and a 🙍🏽‍♂️ Competitive Programmer. Beside's programming, I love to play basketball and a huge fan of NBA 🏀️.
 
 <br/>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
