@@ -11,7 +11,6 @@ Hi, I'm Sourabh Rana, Computer Science undergraduate, OpenSource Contributer �
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on my startup idea;
-- 🌱 I’m currently trying to learn Everything; 
 - 👯 I’m looking to collaborate on my projects 🤝;
 - 🤔 I’m looking for help with Machine Learning 😭;
 - 💬 Ask me about anything, I am happy to help;
