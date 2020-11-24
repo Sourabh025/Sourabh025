@@ -10,10 +10,8 @@ Hi, I'm Sourabh Rana, Computer Science undergraduate, OpenSource Contributer �
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on my startup idea;
+- 👨🏽‍💻 I’m currently working on Machine Learning;
 - 👯 I’m looking to collaborate on my projects 🤝;
-- 🤔 I’m looking for help with Machine Learning 😭;
-- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: ranasourabh466@outlook.com;
 
 
