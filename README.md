@@ -1,18 +1,10 @@
 ### Hey 👋🏽, I'm Sourabh!
-<br/>
-
-
-Hi
-
-<br/>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on Machine Learning;
-- 👯 I’m looking to collaborate on my projects 🤝;
-- 📫 How to reach me: ranasourabh466@outlook.com;
+- I’m looking to collaborate on my projects 🤝;
+- 📫 How to reach me: ranasourabh466@gmail.com;
 
 
 **Languages and Tools:**  
